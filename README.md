@@ -1,5 +1,5 @@
 
- Data Analtics Project:#☕coffee Sales Optimization and  Analysis
+ # ☕ Data Analtics Project:☕coffee Sales Optimization and  Analysis
 
 ## 🚀 Overview
 This was a comprehensive, end-to-end data analysis project executed in *Python*, focused on deriving actionable business intelligence from transactional coffee shop sales data.  
