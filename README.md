@@ -1,4 +1,5 @@
-
+## TO VIEW THE WHOLE WORKBOK CLICK ON THE (https://github.com/chukwupaul31-source/coffee-Sales-Data-Analysis/blob/main/COFFEE_SALES_ANALYSIS.IPYNB.ipynb)
+### OR CLICK ON THE COFFEE_SALES_ANALYSIS.IPYNB. iPYNB READMe thank you for visiting
  # ☕ Data Analtics Project:☕coffee Sales Optimization and  Analysis
 
 ## 🚀 Overview
