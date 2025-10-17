@@ -12,7 +12,7 @@ My analysis followed a structured, repeatable four-phase process to ensure data 
 3. Visualization & Validation: Created targeted visualizations using Matplotlib and Seaborn (e.g., monthly time series plots, segmented bar charts) to validate initial hypotheses and clearly demonstrate trends to stakeholders.
 4. Reporting & Recommendations: Translated statistical outputs and visual evidence into concise, non-technical business recommendations, focusing on measurable operational and marketing actions.
 
- ## :Key Findings And Insights
+ ## ⭐Key Findings And Insights
 The analysis resulted in three core strategic findings and one powerful deep-dive insight focusing on profit potential:
 - Deep Dive Insight: Untapped Profit Potential: While the Downtown store holds the highest overall revenue, its Average Transaction Value (ATV) is 8% lower than quieter suburban locations. This suggests a significant, untapped opportunity for increasing profit per customer in the busiest store.
 - Best-Selling Products: Lattes and Cappuccinos are the undeniable top-selling products, driving the majority of volume and revenue.
